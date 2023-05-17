@@ -234,4 +234,4 @@ if __name__ == '__main__':
                              'g_count_out':'guest_count'})
 
     outcome = sm_top.execute()
-
+#koment
